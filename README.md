@@ -1,2 +1,4 @@
 # Ant-Colony-Optimization-
-Name :
+Name : Aini Nurpadilah
+Nim : 2070231059
+Collage : Krisnadwipayana University
